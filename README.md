@@ -10,3 +10,4 @@ Rip all the audio that comes out of your computer
 * Auto detect sound device.
 * Make it work in different languages (spanish, english, etc)
 * Check for dependencies before starting.
+* Auto tag songs. Based on length / content. Get metadata from system notifications / browser (header/playlist)?
